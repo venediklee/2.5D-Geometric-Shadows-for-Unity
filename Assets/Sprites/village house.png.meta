@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 6a8b94bd68209034a92e27e091822397
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9075520301222573955
+    second: village house_0
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.634767, y: 0.17921141}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: village house_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 47
+        width: 206
+        height: 205
+      alignment: 9
+      pivot: {x: 0.0776699, y: 0.31219512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 102.5}
+        - {x: -38, y: 102.5}
+        - {x: -50, y: 93.5}
+        - {x: -103, y: 25.5}
+        - {x: -103, y: 14.5}
+        - {x: -94, y: 9.5}
+        - {x: -98, y: -36.5}
+        - {x: -90, y: -53.5}
+        - {x: -76, y: -72.5}
+        - {x: -46, y: -91.5}
+        - {x: -11, y: -85.5}
+        - {x: 13, y: -88.5}
+        - {x: 33, y: -102.5}
+        - {x: 54, y: -100.5}
+        - {x: 54, y: -32.5}
+        - {x: 87, y: 24.5}
+        - {x: 103, y: 34.5}
+        - {x: 103, y: 37.5}
+      physicsShape: []
+      tessellationDetail: 0.2
+      bones: []
+      spriteID: 387b73a31a9b2fd70800000000000000
+      internalID: 9075520301222573955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village house_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 49
+        width: 83
+        height: 161
+      alignment: 9
+      pivot: {x: 0.85542166, y: 0.22360249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 14.5}
+        - {x: 41.5, y: 20.5}
+        - {x: 41.5, y: 35.5}
+        - {x: 7.5, y: 57.5}
+        - {x: 7.5, y: 54.5}
+        - {x: -8.5, y: 44.5}
+        - {x: -41.5, y: -12.5}
+        - {x: -41.5, y: -80.5}
+        - {x: -25.5, y: -80.5}
+        - {x: 34.5, y: -50.5}
+      physicsShape: []
+      tessellationDetail: 0.2
+      bones: []
+      spriteID: ed54e0bf950968245bea1671364238b4
+      internalID: -246668844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape:
+    - - {x: 45, y: -77}
+      - {x: 112, y: -44}
+      - {x: -23, y: 20}
+      - {x: -92, y: -4}
+      - {x: -109, y: -23}
+      - {x: -100, y: -26}
+      - {x: -85, y: -6}
+      - {x: -41, y: -28}
+      - {x: -9, y: -50}
+      - {x: -47, y: -46}
+      - {x: -57, y: -63}
+      - {x: -44, y: -54}
+      - {x: -15, y: -57}
+      - {x: 32, y: -79}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 95195f8ec876830489cc49717c730846, type: 3}
+      name: _NormalMap
+    - texture: {fileID: 2800000, guid: 3ed26a0952304b14cba1a1eb3ad1fc76, type: 3}
+      name: _EdgeMap
+    nameFileIdTable:
+      village house_0: 9075520301222573955
+      village house_1: -246668844
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
