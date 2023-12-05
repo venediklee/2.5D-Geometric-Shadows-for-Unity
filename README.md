@@ -1,6 +1,8 @@
 # 2.5D-Geometric-Shadows-for-Unity
 2.5D lighting and shadow system that extends on current Unity 2D lighting and shadow system
 
+Discussion at Unity forums: https://forum.unity.com/threads/2-5d-geometric-shadows.1490683/
+
 Some people asked me to show the exact way of making something like this: https://forum.unity.com/threads/2-5d-lighting-using-2d-lights-isometric.1409457/#post-9283393 so I thought I'll share it alongside another method that adds "geometry" to bend shadows like this:
 ![image](https://github.com/venediklee/2.5D-Geometric-Shadows-for-Unity/assets/36706533/b8b809a1-0f0f-4160-b3e6-d89de2f87a03)
 
